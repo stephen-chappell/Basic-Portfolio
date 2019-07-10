@@ -4,6 +4,6 @@ Portfolio Assignment
 
 Stephen is an Atlanta-based web development student at The Georgia Institute of Technology. His interests lie in server-side development and cybersecurity and he hopes to find a job at the crossroads of the two. Stephen has solid experience in HTML and CSS as well Adobe Cold Fusion, but is intrigued by Node.js and other server-side technologies. In the little spare time his program affords him, Stephen is working to build a home-based web server on a Raspberry-Pi machine.
 
-In addition to coding and security, Stephen is an avid fly fisherman with a particular interest in rainbow trout, which he finds particularly delicious. As a former chef, Stephen is a proficient home cook with expertise in French, Italian and Japanese cuisines. 
+In addition to coding and security, Stephen is an avid fly fisherman with a particular interest in rainbow trout, which he finds particularly delicious. As a former chef, Stephen is a proficient home cook with expertise in French, Italian and Japanese cuisines. At the moment he is working on developing a food blog emphasizing simple American/Asian fusion cuisine.
 
 Stephen also owns two cats (or rather, is owned by two cats), Daisy and Mrs. Patmore. Despite their best efforts to destroy his home and possessions, Stephen is a dedicated kitty-daddy and even makes homemade cat food for his girls.
