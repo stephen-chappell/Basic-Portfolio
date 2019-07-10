@@ -1,0 +1,5 @@
+7/10/19
+
+1. for the portfolio page, it looks like it might be 3x3 grid; should i do that or should i just do the five boxes pictures?
+
+2. for the portfolio page - table or bootstrap?
