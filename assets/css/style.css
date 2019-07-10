@@ -1,1 +1,28 @@
 /* Portfolio Project CSS */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("./assets/images/vintage_speckles.png");
+    background-repeat: repeat;
+}
+
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.conatiner {
+    width: 960px;
+    margin: 0 auto;
+}
+
+/* Navbar */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+      display: inline;
+  }
